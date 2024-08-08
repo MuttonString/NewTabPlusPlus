@@ -1,0 +1,25 @@
+.side {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  left: 8px;
+  bottom: 8px;
+
+  .button {
+    margin: 8px;
+    background-color: var(--bg-color);
+  }
+
+  .button-transparent {
+    margin: 8px;
+    background-color: var(--bg-color);
+    -webkit-backdrop-filter: var(--blur);
+    backdrop-filter: var(--blur);
+  }
+}
+
+.drawer-transparent {
+  background-color: var(--bg-color-main) !important;
+  -webkit-backdrop-filter: var(--blur);
+  backdrop-filter: var(--blur);
+}

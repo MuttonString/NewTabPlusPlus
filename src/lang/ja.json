@@ -1,0 +1,16 @@
+{
+  "lang.en": "英語",
+  "lang.chs": "簡体中国語",
+  "lang.cht": "繁体中国語",
+  "lang.ja": "日本語",
+  "side.default": "デフォルト",
+  "side.settings": "設定",
+  "side.edit": "編集",
+  "side.lang": "言語",
+  "side.theme": "テーマ",
+  "side.light": "ライト",
+  "side.dark": "ダーク",
+  "side.blur": "ぼやけたバック",
+  "side.bg": "壁紙",
+  "side.darken": "ダークテーマで壁紙を暗くする"
+}

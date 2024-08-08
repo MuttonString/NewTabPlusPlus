@@ -1,0 +1,16 @@
+{
+  "lang.en": "English",
+  "lang.chs": "Simplified Chinese",
+  "lang.cht": "Traditional Chinese",
+  "lang.ja": "Japanese",
+  "side.default": "Default",
+  "side.settings": "Settings",
+  "side.edit": "Edit",
+  "side.lang": "Language",
+  "side.theme": "Theme",
+  "side.light": "Light",
+  "side.dark": "Dark",
+  "side.blur": "Blurred background",
+  "side.bg": "Wallpaper",
+  "side.darken": "Darken wallpaper in dark theme"
+}

@@ -1,0 +1,16 @@
+{
+  "lang.en": "英語",
+  "lang.chs": "簡體中文",
+  "lang.cht": "繁體中文",
+  "lang.ja": "日語",
+  "side.default": "默認",
+  "side.settings": "設置",
+  "side.edit": "編輯",
+  "side.lang": "語言",
+  "side.theme": "主題",
+  "side.light": "亮",
+  "side.dark": "暗",
+  "side.blur": "模糊背景",
+  "side.bg": "壁紙",
+  "side.darken": "暗主題下壁紙變暗"
+}
